@@ -8,5 +8,6 @@ public class gitTest {
         System.out.println("master");
         System.out.println("hot-fix");
         System.out.println("修改1");
+        System.out.println("pull修改2");
     }
 }
